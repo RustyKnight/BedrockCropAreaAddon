@@ -1,6 +1,6 @@
 # Minecraft Bedrock, Crop Area V0.0.1
 
-![MinecraftBedrock](https://img.shields.io/badge/MinecraftBedroc-1.19.30-orange)
+![MinecraftBedrock](https://img.shields.io/badge/MinecraftBedrock-1.19.30-orange)
 
 ## Description
 Displays a basic 9x9 area, marking water location in the center, and crops locations surrounding. In BE water for crops must be ~4 blocks horizontally, at y0 or y+1 from planted crops.
