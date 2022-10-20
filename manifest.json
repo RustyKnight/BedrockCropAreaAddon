@@ -2,8 +2,8 @@
     "format_version": 2,
     "header":
     {
-        "description": "Farm water distance display",
-        "name": "Farm Water Distance Display",
+        "description": "Crop water area",
+        "name": "Crop Water Area",
         "uuid": "49f3ecd9-4a1a-46a0-ab13-43dbf19c95e6",
         "version":
         [
